@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\bin\Debug\Notification Alerts Popups.exe.config
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\bin\Debug\Notification Alerts Popups.exe
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\bin\Debug\Notification Alerts Popups.pdb
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\bin\Debug\Bunifu_UI_v1.5.3.dll
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification_Alerts_Popups.Form1.resources
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification_Alerts_Popups.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification Alerts Popups.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification Alerts Popups.exe
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification Alerts Popups.pdb
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\obj\Debug\Notification_Alerts_Popups.alerts.resources
+d:\documents\visual studio 2015\Projects\Notification Alerts Popups\Notification Alerts Popups\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
