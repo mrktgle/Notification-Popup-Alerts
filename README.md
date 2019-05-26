@@ -1,6 +1,6 @@
 # Notification Popup Alerts made in visual studio c# 
 
-## Frameworks used
+## Framework used
 ### Bunifu UI v1.5.3 / v1.8.0
 
 # Sample Main Form
